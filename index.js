@@ -103,3 +103,8 @@ if (readlineSync.keyInYN('Press y when you are ready to take the quiz. : \n')) {
 console.log(greenFont(bgRed("Your HighScore is " + score)));
 
 seprator();
+
+console.log(greenFont("Top Scorers"));
+console.log(blueFont("\n Atishay : 3 \n Rahul : 2"));
+
+seprator();
